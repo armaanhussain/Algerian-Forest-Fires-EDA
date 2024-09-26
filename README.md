@@ -70,6 +70,8 @@ Wind Speed highest Fire count happened when the wind speed were between 13 to 19
 Relative Humidity highest fire count happened when the RH is between 50 to 80%.
 
 
+
+
 FWI SYSTEM COMPONENTS REPORT
 
 FWI (Canadian Forest Fire Weather Index)
