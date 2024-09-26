@@ -1,9 +1,31 @@
 # Algerian-Forest-Fires-EDA
 
-1.DATA COLLECTION AND UNDERSTANDING
+1.Data Set Information:
+
+The dataset includes 244 instances that regroup a data of two regions of Algeria,namely the Bejaia region located in the northeast of Algeria and the Sidi Bel-abbes region located in the northwest of Algeria.
+122 instances for each region.
+The period from June 2012 to September 2012. The dataset includes 11 attribues and 1 output attribue (class) The 244 instances have been classified into fire(138 classes) and not fire (106 classes) classes.
+
+Attribute Information:
+
+Date : (DD/MM/YYYY) Day, month ('june' to 'september'), year (2012) Weather data observations
+Temp : temperature noon (temperature max) in Celsius degrees: 22 to 42
+RH : Relative Humidity in %: 21 to 90
+Ws :Wind speed in km/h: 6 to 29
+Rain: total day in mm: 0 to 16.8 FWI Components
+Fine Fuel Moisture Code (FFMC) index from the FWI system: 28.6 to 92.5
+Duff Moisture Code (DMC) index from the FWI system: 1.1 to 65.9
+Drought Code (DC) index from the FWI system: 7 to 220.4
+Initial Spread Index (ISI) index from the FWI system: 0 to 18.5
+Buildup Index (BUI) index from the FWI system: 1.1 to 68
+Fire Weather Index (FWI) Index: 0 to 31.1
+Classes: two classes, namely Fire and not Fire
+
+
+2.DATA COLLECTION AND UNDERSTANDING
 I used a dataset on Algerian Forest Fires from UCI. The dataset contains a culmination of forest fire observations and data in two regions of Algeria: the Bejaia region and the Sidi Bel-Abbes region. The timeline of this dataset is from June 2012 to September 2012. In this project, we focused on whether certain weather features could predict forest fires in these regions using few Classification algorithms.
 
-2. DATA EXPLORATION
+3. DATA EXPLORATION
 In this step, we will apply Exploratory Data Analysis (EDA) to extract insights from the data set to know which features have contributed more in predicting Forest fire by performing Data Analysis using Pandas and Data visualization using Matplotlib & Seaborn. It is always a good practice to understand the data first and try to gather as many insights from it.
 Below are tasks to be performed in EDA:
 
@@ -13,6 +35,11 @@ Below are tasks to be performed in EDA:
 
 
 # Technologies Used
+
+
+![image](https://github.com/user-attachments/assets/2e036652-242b-449a-b977-3f4f1f775376)  ![image](https://github.com/user-attachments/assets/4b14b0ce-dd02-4d07-81a6-7c8d47729e22)
+![image](https://github.com/user-attachments/assets/733d117d-f615-4dbf-ac6a-548e8519e6da)  ![image](https://github.com/user-attachments/assets/d5fffb9b-6a62-4475-807e-e425cdae2c54)
+
 
 
 # Report
