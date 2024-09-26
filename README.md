@@ -59,6 +59,7 @@ Below are tasks to be performed in EDA:
 
 # Report
 
+
 WEATHER SYSTEM REPORT
 
 Temperature Highest Fire counts happened between 30-37 degree Celsius
@@ -68,6 +69,7 @@ Rain Highest Fire counts happened when there was no rain to very less rain ie. 0
 Wind Speed highest Fire count happened when the wind speed were between 13 to 19 Km/hr.
 
 Relative Humidity highest fire count happened when the RH is between 50 to 80%.
+
 
 
 
@@ -86,6 +88,7 @@ Initial Spread Index (ISI) index which ranges between 0 to 18, here 0-3 has lowe
 Buildup Index (BUI) index which ranges between 1.1 to 68, here 1.1 to 10 has lower Forest fire chance and above 10 BUI has higher chance of forest fires.
 
 Fire Weather Index (FWI) Index which ranges between 1 to 31.1, here 0-3 has lower chance of Forest fires and 3-25 FWI has higher chance of forest fires.
+
 
 
 
