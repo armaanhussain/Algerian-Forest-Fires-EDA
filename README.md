@@ -1,5 +1,9 @@
 # Algerian-Forest-Fires-EDA
 
+![image](https://github.com/user-attachments/assets/074f83a5-88f5-48f0-bbbe-9560f3e2896f)
+
+
+
 1.Data Set Information:
 
 The dataset includes 244 instances that regroup a data of two regions of Algeria,namely the Bejaia region located in the northeast of Algeria and the Sidi Bel-abbes region located in the northwest of Algeria.
