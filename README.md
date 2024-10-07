@@ -1,7 +1,6 @@
 # Algerian-Forest-Fires-EDA
 
-![image](https://github.com/user-attachments/assets/074f83a5-88f5-48f0-bbbe-9560f3e2896f)
-
+![forest-fires-heat](https://github.com/user-attachments/assets/7dabb6c8-f533-4486-a568-564ff65c74b0)
 
 
 1.Data Set Information:
